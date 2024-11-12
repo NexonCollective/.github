@@ -10,7 +10,7 @@ Our team is always looking for ways to improve the quality of our software.
     <img src="https://img.shields.io/badge/GitHub-202020?style=flat-square&logo=github&logoColor=white&colorA=202020&colorB=202020">
   </a>
   <a href="https://github.com/NexonCollective">
-    <img src="https://img.shields.io/badge/Mastodon-202020?style=flat-square&logo=mastodon&logoColor=white&colorA=202020&colorB=202020">
+    <img src="https://img.shields.io/badge/X-202020?style=flat-square&logo=X&logoColor=white&colorA=202020&colorB=202020">
   </a>
   <a href="https://github.com/NexonCollective">
     <img src="https://img.shields.io/badge/Support%20Us-202020?style=flat-square&logo=patreon&logoColor=white&colorA=202020&colorB=202020">
